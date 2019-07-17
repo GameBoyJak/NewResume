@@ -1,4 +1,28 @@
 body {
   text-align: center;
   font-family: 'Press Start 2P', cursive;
+  background-color: #2e2e2e;
+  color: red;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+a:hover {
+  color: yellow;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home {
+  width: 20em;
+}
+
+.home:hover{
+  opacity: 0.75;
 }
