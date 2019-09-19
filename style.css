@@ -3,6 +3,9 @@ body {
   font-family: 'Press Start 2P', cursive;
   background-color: #2e2e2e;
   color: red;
+  letter-spacing: 0.15em;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 
 a {
@@ -21,8 +24,20 @@ table {
 
 .home {
   width: 20em;
+  transition-duration: 0.5s;
 }
 
 .home:hover{
-  opacity: 0.75;
+  width: 22em;
+  transition-duration: 0.5s;
+}
+
+.arrow{
+  width: 10em;
+  transition-duration: 0.5s;
+}
+
+.arrow:hover{
+  width: 12em;
+  transition-duration: 0.5s;
 }

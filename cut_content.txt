@@ -1,0 +1,16 @@
+<table>
+       <tr>
+         <th>
+           <img src="images/gd_1.png" alt="Game Design" class="home">
+         </th>
+         <th>
+           <img src="images/18.png" alt="Game Design" class="home">
+         </th>
+         <th>
+           <img src="images/25.png" alt="Beach" class="home">
+         </th>
+         <th>
+           <img src="images/gd2.png" alt="Game Design" class="home">
+         </th>
+       </tr>
+     </table>
